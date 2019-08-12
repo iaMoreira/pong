@@ -7,9 +7,7 @@ Esse jogo foi desenvolvido no Projeto de Ensino **Jogos uma atividade prática n
 ## Executando no terminal no linux Debian (Ubuntu)
 `$ git clone https://github.com/iaMoreira/pong.git`
 
-`$ sudo apt-get install libglew-dev freeglut3-dev libglm-dev`
-
-`$ sudo apt-get install libsdl2-dev libsdl2-mixer-dev`
+`$ sudo apt install libglew-dev freeglut3-dev libglm-dev libsdl2-dev libsdl2-mixer-dev -y`
 
 `$ cd pong`
 
